@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    font-family: Arial;
+    padding: 0 12px;
+    font-weight: bolder;
+}
